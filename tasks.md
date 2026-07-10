@@ -1,2 +1,2 @@
 - [x] Map out mobile-responsive UI layouts for the foundation [id:: 1715865600] [priority:: high] [horizon:: week] [created:: 2024-05-16] [deadline:: 2024-05-19] [nudges:: 9]
-- [ ] Finish technical optimization checklist for the 3D environmental design pipeline [id:: 1715865601] [priority:: medium] [horizon:: week] [created:: 2024-05-16] [deadline:: 2024-05-19] [nudges:: 12]
+- [ ] Finish technical optimization checklist for the 3D environmental design pipeline [id:: 1715865601] [priority:: medium] [horizon:: week] [created:: 2024-05-16] [deadline:: 2024-05-19] [nudges:: 13]
