@@ -2,3 +2,5 @@
 - [x] Finish technical optimization checklist for the 3D environmental design pipeline [id:: 1715865601] [priority:: medium] [horizon:: week] [created:: 2024-05-16] [deadline:: 2024-05-19] [nudges:: 15]
 - [ ] Draft the new dashboard layout [id:: 1715952000] [priority:: medium] [horizon:: today] [created:: 2024-05-17] [deadline:: 2024-05-18] [nudges:: 4]
 - [ ] Sketch out the Bento grid wireframes in Figma [id:: 1715952001] [priority:: high] [horizon:: today] [created:: 2024-05-17] [deadline:: 2024-05-17] [nudges:: 3] [goal:: G-1715952001]
+- [ ] Outline the course curriculum modules and lesson topics in a document [id:: 1783760559525] [priority:: medium] [horizon:: week] [created:: 2026-07-11] [nudges:: 0] [goal:: G-1716038401]
+- [ ] Select the hosting platform for the course content [id:: 1783760559808] [priority:: medium] [horizon:: week] [created:: 2026-07-11] [nudges:: 0] [goal:: G-1716038401]
