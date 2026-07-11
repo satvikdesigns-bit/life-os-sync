@@ -1,4 +1,4 @@
 - [x] Map out mobile-responsive UI layouts for the foundation [id:: 1715865600] [priority:: high] [horizon:: week] [created:: 2024-05-16] [deadline:: 2024-05-19] [nudges:: 9]
 - [x] Finish technical optimization checklist for the 3D environmental design pipeline [id:: 1715865601] [priority:: medium] [horizon:: week] [created:: 2024-05-16] [deadline:: 2024-05-19] [nudges:: 15]
-- [ ] Draft the new dashboard layout [id:: 1715952000] [priority:: medium] [horizon:: today] [created:: 2024-05-17] [deadline:: 2024-05-18] [nudges:: 3]
-- [ ] Sketch out the Bento grid wireframes in Figma [id:: 1715952001] [priority:: high] [horizon:: today] [created:: 2024-05-17] [deadline:: 2024-05-17] [nudges:: 2] [goal:: G-1715952001]
+- [ ] Draft the new dashboard layout [id:: 1715952000] [priority:: medium] [horizon:: today] [created:: 2024-05-17] [deadline:: 2024-05-18] [nudges:: 4]
+- [ ] Sketch out the Bento grid wireframes in Figma [id:: 1715952001] [priority:: high] [horizon:: today] [created:: 2024-05-17] [deadline:: 2024-05-17] [nudges:: 3] [goal:: G-1715952001]
